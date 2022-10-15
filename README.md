@@ -85,11 +85,11 @@ View the Source code [here](code.txt)
 
 <br>
 
-![Result Image 1](res1.png)
+![image](https://user-images.githubusercontent.com/86926101/196000962-4f35ab17-c098-45e5-8c46-0a477d8969ac.png)
 
-![Result Image 2](res3.png)
+![image](https://user-images.githubusercontent.com/86926101/196001071-7f9cc6b6-a9fe-4b84-a9ff-ab3ec11abf45.png)
 
-![Result Image 3](res2.png)
+![image](https://user-images.githubusercontent.com/86926101/196001117-ce95943c-be4f-4131-b648-aa67191e49b6.png)
 
 <br><br>
 
@@ -114,5 +114,3 @@ end product.
 
 <br><br>
 
-# Reference
-https://iotdesignpro.com/projects/iot-based-smart-parking-using-esp8266
