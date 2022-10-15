@@ -42,7 +42,7 @@ smartphones or pc and this is how we tried to make the project more efficient.
 # Circuit Diagram
 <br>
 
-![alt text](ckt-img.png)
+![image](https://user-images.githubusercontent.com/86926101/196000886-945dff9c-7fa2-4cca-b772-43f773c2eeaa.png)
 
 <br><br>
 
